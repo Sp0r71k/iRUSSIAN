@@ -1,0 +1,2 @@
+# iRUSSIAN
+trap hata
